@@ -31,11 +31,13 @@ body{
 #nav-list a{
 	text-align: center;
     margin-top: 10px;
+	float: none;
 }
 
 #nav-list a:hover{
 	background: #D3D3D3;
 	text-align: center;
+
 }
 .glyphicon{
 	margin-right: 5px;	
