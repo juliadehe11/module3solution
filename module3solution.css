@@ -26,10 +26,11 @@ body{
 	/*border-top: none;*/
 	border: none; 
 	border-width: 0px;
-	text-align: center
 }
 #nav-list a{
 	text-align: center;
+    margin-top: 10px;
+  text-align: center
 }
 
 #nav-list a:hover{
