@@ -3,14 +3,14 @@
 	/*box-sizing: border-box;*/
 }
 body{
-	background-color: #d496a8;
-	color: #0000;
+	background-color: #ffff;
+	color: #fcf8e3;
 	font-size: 16px;
 	font-family: 'Oxygen', sans-serif;
 }
 
 #header-nav{
-	background-color: #f6b319;
+	background-color: #ffff;
 	border-radius: 0;
 	border: 0;
 }
