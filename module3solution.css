@@ -102,6 +102,7 @@ body{
     .navbar-default .navbar-collapse{
         border: none;
         background-color: #99C5B5;
+        text-align: center;
     }
     /*.col-md-6, .col-lg-4{
         width: 100%;
