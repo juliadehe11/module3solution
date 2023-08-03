@@ -29,9 +29,9 @@ body{
 	text-align: center
 }
 #nav-list a{
+	 margin-top: 10px;
 	text-align: center;
-    margin-top: 10px;
-	float: none;
+    
 }
 
 #nav-list a:hover{
