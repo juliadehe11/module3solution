@@ -21,6 +21,7 @@ body{
 
 .navbar-default .navbar-collapse{
 	border: none;
+	text-align: center
 }
 #nav-list a:active{
 	/*border-top: none;*/
