@@ -17,35 +17,22 @@ body{
 .navbar-default .navbar-brand{
 	font-size: 2em;
 	color: #ffffff;
-	text-align; center 
 }
 
 .navbar-default .navbar-collapse{
 	border: none;
-	text-align: center
 }
 #nav-list a:active{
 	/*border-top: none;*/
 	border: none; 
 	border-width: 0px;
-	text-align: center
-
-}
-#nav-list {
-text-align: center;
-  
-}
 }
 #nav-list a{
-	 margin-top: 10px;
 	text-align: center;
-    
 }
 
 #nav-list a:hover{
-	background: #D3D3D3;
-	text-align: center;
-
+	background: #e7e7e7;
 }
 .glyphicon{
 	margin-right: 5px;	
@@ -56,7 +43,7 @@ text-align: center;
 }
 
 .section-background-color{
-	background-color: #d496a8;
+	background-color: #f29c54;
 	/*padding: 5px;*/
 } 
 
@@ -107,7 +94,6 @@ text-align: center;
 		margin-left: 25px;
 		display: inline-block;
 		margin-top: 10px;
-		text-align; center 
 	}
 	#company-name{
 		font-size: 2em;
