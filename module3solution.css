@@ -43,6 +43,9 @@ body{
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
 	border: 2px solid #61122f;
 	background: #ffffff;
+	clear: both;
+        margin-top: -30px;
+	
 }
 
 .section-background-color{
