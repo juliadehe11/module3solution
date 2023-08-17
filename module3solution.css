@@ -102,11 +102,9 @@ body{
 	.navbar-default .navbar-collapse{
 		border: none;
 		background-color: #99C5B5;
-	}
-	/*.col-md-6, .col-lg-4{
 		width: 100%;
 		margin-top: 10px;
-	}*/
+	}
 
 	#beef{
 		margin: 10px 0px;
