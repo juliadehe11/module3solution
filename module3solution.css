@@ -21,9 +21,6 @@ body{
 
 .navbar-default .navbar-collapse{
 	border: none;
-	font-size: 1em;
-        margin-right: 5px;
-	width: 100%
 }
 #nav-list a:active{
 	/*border-top: none;*/
@@ -43,9 +40,6 @@ body{
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
 	border: 2px solid #61122f;
 	background: #ffffff;
-	clear: both;
-       
-	
 }
 
 .section-background-color{
@@ -108,9 +102,11 @@ body{
 	.navbar-default .navbar-collapse{
 		border: none;
 		background-color: #99C5B5;
+	}
+	/*.col-md-6, .col-lg-4{
 		width: 100%;
 		margin-top: 10px;
-	}
+	}*/
 
 	#beef{
 		margin: 10px 0px;
