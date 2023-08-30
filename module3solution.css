@@ -101,7 +101,8 @@ body{
   }
   .navbar-default .navbar-collapse{
     border: none;
-    background-color: #99C5B5;
+    background-color: #99C5B5!important;
+    text-align: center!important;
   }
   /*.col-md-6, .col-lg-4{
     width: 100%;
